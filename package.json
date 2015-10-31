@@ -1,0 +1,17 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "five.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Benjamin Gandhi-Shepard <ben@brownerd.com> (http://brownerd.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "6.0.14",
+    "gulp": "3.9.0",
+    "gulp-filenames": "2.0.0",
+    "path": "0.12.7"
+  }
+}
